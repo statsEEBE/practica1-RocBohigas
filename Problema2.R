@@ -32,7 +32,3 @@ barplot(ni)
 fi <- ni/length(data$cyl)
 pie(fi)
 
-
-
-
-
